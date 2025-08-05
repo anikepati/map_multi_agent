@@ -6,6 +6,8 @@ In traditional AI applications, LLMs often operate in isolation or rely on tight
 
 ## 🧠 Architecture
 This application features a modular, decentralized architecture comprising:
+Inline-style: 
+![alt text](https://github.com/anikepati/mcp_multi_agent/blob/main/mcp_design.png "Design")
 
 Specialized LLM-Powered Agents (MCP Servers):
 
